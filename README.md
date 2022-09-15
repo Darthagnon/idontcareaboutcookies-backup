@@ -26,4 +26,4 @@ I wasn't fast enough to grab v3.4.2.0 of either of those browser's versions, but
 
 ![Tweek by CK's Technology News](1570406615597338625.png)
 
-![Acquisition Announcement](Acquisition Announcement.jpg)
+![Acquisition Announcement](Acquisition-Announcement.jpg)
