@@ -1,5 +1,5 @@
-# idontcareaboutcookies-backup
-Browser extension idontcareaboutcookies recently sold out to Avast, the trashy antivirus company that bought out (and ruined) Piriform CCleaner (and the rest of their products). This is a backup of the last good version before the acquisition, **v3.4.2.0**
+# A backup of the "I Don't Care About Cookies" extension
+Browser extension [idontcareaboutcookies](https://www.i-dont-care-about-cookies.eu/) recently sold out to Avast, the trashy antivirus company that bought out (and ruined) Piriform CCleaner (and the rest of their products). This is a backup of the last good version before the acquisition, **v3.4.2.0**
 
 That said, no malicious/advertising changes have been confirmed yet.
 
