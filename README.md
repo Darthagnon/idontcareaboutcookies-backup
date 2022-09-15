@@ -3,8 +3,6 @@ Browser extension [idontcareaboutcookies](https://www.i-dont-care-about-cookies.
 
 That said, no malicious/advertising changes have been confirmed yet.
 
-![Tweek by CK's Technology News](1570406615597338625.png)
-
 ## Sources:
 - [Palemoon](https://addons.palemoon.org/?component=download&id=jid1-KKzOGWgsW3Ao4Q@jetpack&version=3.4.2)
 - [Chrome](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja), grabbed with the following bookmarklet on 15/09/22:
@@ -23,3 +21,9 @@ I wasn't fast enough to grab v3.4.2.0 of either of those browser's versions, but
 ## News:
 - [Official acquisition announcement](https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/) ([Archive.org](https://web.archive.org/web/20220915150131/https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/), [Archive.today](https://archive.ph/Xb0At))
 - [CK's Technology News announcement](https://twitter.com/CKsTechNews/status/1570406615597338625) ([Archive.today](https://archive.ph/fiVH3)
+
+## Screenshots
+
+![Tweek by CK's Technology News](1570406615597338625.png)
+
+![Acquisition Announcement](Acquisition Announcement.jpg)
