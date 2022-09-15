@@ -3,6 +3,11 @@ Browser extension [idontcareaboutcookies](https://www.i-dont-care-about-cookies.
 
 That said, no malicious/advertising changes have been confirmed yet.
 
+## Future development
+- OhMyGuus is developing a FOSS fork of idontcareaboutcookies here: https://github.com/OhMyGuus/I-Dont-Care-About-Cookies
+- If anyone can test and confirm that 3.4.3 (or later) versions of the original idontcareaboutcookies **are OK** and do not have Avast code added, then the backup here will be updated.
+- If anyone can provide any of the missing extension versions, they will also be included. See [below](#missing:)
+
 ## Sources:
 - [Palemoon](https://addons.palemoon.org/?component=download&id=jid1-KKzOGWgsW3Ao4Q@jetpack&version=3.4.2)
 - [Chrome](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja), grabbed with the following bookmarklet on 15/09/22:
