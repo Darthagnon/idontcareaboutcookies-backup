@@ -3,6 +3,14 @@ Browser extension [idontcareaboutcookies](https://www.i-dont-care-about-cookies.
 
 That said, no malicious/advertising changes have been confirmed yet.
 
+## Usage:
+
+In this repo, go into the folder for your browser and download the relevant extension file. 
+
+In Chrome-based browsers, you'll need to go into [chrome://extensions](chrome://extensions) and drag'n'drop the CRX. You may need to enable "Developer Mode". If that doesn't work, rename the CRX to ZIP, extract it somewhere permanent on your HDD, and then, from [chrome://extensions](chrome://extensions) with Developer Mode enabled, **Load unpacked extension** and browse to where you unzipped the extension. Modern Chrome and Edgium will nag you on launch about developer mode extensions; if this annoys you, either [follow these hacky steps](https://stackoverflow.com/questions/23055651/disable-developer-mode-extensions-pop-up-in-chrome) or switch to a developer/beta version of the browser or a fork like [Ungoogled Chromium](https://chromium.woolyss.com/). 
+
+For Firefox, switch to [Extended Service Release](https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr) (recommended) or Developer/Nightly (not recommended), goto `about:config` and set `xpinstall.signatures.required` to `false`, then drag'n'drop the XPI to install it. 
+
 ## Future development
 - OhMyGuus is developing a FOSS fork of idontcareaboutcookies here: https://github.com/OhMyGuus/I-Dont-Care-About-Cookies
 - If anyone can test and confirm that 3.4.3 (or later) versions of the original idontcareaboutcookies **are OK** and do not have Avast code added, then the backup here will be updated.
