@@ -14,13 +14,12 @@ That said, no malicious/advertising changes have been confirmed yet.
 ```
 javascript:location.href='https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx3&prodversion='+(navigator.appVersion.match(/Chrome\/(\S+)/)[1])+'&x=id%'+'3D'+(document.querySelector('a[href^="https://chrome.google.com/webstore/report/"]').pathname.match(/[^\/]+\/*$/)[0])+'%'+'26installsource%'+'3Dondemand%'+'26uc';
 ```
-- [Firefox]
+- Firefox: Mozilla served me the wrong file before; thankfully I found I still had an XPI of **idontcareaboutcookies v3.4.2** in my Firefox user profile folder `\AppData\Roaming\Mozilla\Firefox\Profiles\gd1acr8t.default-esr\extensions\jid1-KKzOGWgsW3Ao4Q@jetpack.xpi`
 - [Filterlist](https://www.i-dont-care-about-cookies.eu/abp/) (this seems to have a different version string, and is more transparent than the extension. I only got v343, [Archive.org](https://web.archive.org/web/20220000000000*/https://www.i-dont-care-about-cookies.eu/abp/))
 
 ## Missing:
 - Opera
 - Edgium
-- Firefox
 
 I wasn't fast enough to grab v3.4.2.0 of any of those browser's versions, but the Chromium version of the extension should work fine on Opera and Edgium. 
 
